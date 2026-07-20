@@ -1,0 +1,6 @@
+{
+  "name": "NeuroFlow — Quiz TDAH",
+  "description": "Descubra o perfil de funcionamento do seu filho com TDAH, organize sua rotina adaptada e alcance mais harmonia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
